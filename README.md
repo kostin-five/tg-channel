@@ -2,4 +2,4 @@
 
 ## Моя первая работа на HTML & CSS
 
-[Ссылка на сайт](https://kostin-five.github.io/tg-chanel/)
+[Ссылка на сайт](https://kostin-five.github.io/tg-channel/)
